@@ -1,0 +1,14 @@
+                 Tim Carroll by COBOL ASSIGNMENT 1
+  EMPLOYEE NAME                    $100   $50  $20  $10   $5   $1   PAY
+  JOHN SMITH          123456789       3     1    0    0    0    0   350
+  JESSICA GRAUER      333444555       4     1    1    0    1    0   475
+  CHANDLER LAVOR      987654321       1     1    1    0    1    3   178
+  JEFFRY BOROW        777668888       2     0    0    1    1    4   219
+  MARION MILGROM      999887777       3     0    2    0    0    1   341
+  LYNN FRANKEL        492336789       4     1    2    0    0    2   492
+  KARL KARLSTROM      333228888       3     0    0    1    0    4   314
+  KATHY MARSHAK       245347878       3     1    0    1    1    3   368
+  RHODA HAAS          111111111       3     0    0    0    1    0   305
+  JIM FEGEN           222222222       5     0    1    0    0    2   522
+  MARIO VILLAR        333333333       3     1    1    0    1    3   378
+End of Report
